@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "chmod u+r+x setup.sh && ./setup.sh ",
-    "start": "node app.js"
+    "build": "chmod u+r+x setup.sh && ./setup.sh",
+    "start": "node app.js "
   },
   "author": "Rakesh",
   "license": "ISC",
